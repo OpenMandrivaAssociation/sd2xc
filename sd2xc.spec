@@ -12,7 +12,6 @@ Source0: %{oname}-%{version}-%pre.perl.bz2
 URL: http://www.bwbohh.net/software/SD2XC/index.html
 License: MIT
 Group: Graphics
-BuildRoot: %{_tmppath}/%{name}-buildroot
 Requires: perl-Magick
 Requires: perl-Config-IniFiles
 BuildArch: noarch
