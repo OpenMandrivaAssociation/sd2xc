@@ -1,7 +1,7 @@
 %define name sd2xc
 %define version 0.0.4
 %define pre RC1
-%define release %mkrel 0.%pre.4
+%define release %mkrel 0.%pre.5
 %define oname SD2XC
 
 Summary: SD2XC stands for StarDock to Xcursor
